@@ -1,10 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **jackpan123/jackpan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* 🧐   Interested in Java and big data. 
+* 💼   Senior Back End Engineer.
+* 🌱   Currently learning Math & Spring principle.
+* 💻   With 4 years' computer science and technology education and 4 years' development working experience.
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://juejin.cn/user/2823201593259405).
