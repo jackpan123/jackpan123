@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * 🧐   Interested in Java and big data. 
-* 💼   Senior Back End Engineer.
+* 💼   Back End Engineer.
 * 🌱   Currently learning Math & Spring principle.
 * 💻   With 4 years' computer science and technology education and 4 years' development working experience.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://juejin.cn/user/2823201593259405).
