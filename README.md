@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🧐   Interested in Java and big data. 
+* 🧐   Interested in Java and Spark. 
 * 💼   Back End Engineer.
 * 🌱   Currently learning Math & Spring principle.
 * 💻   With 4 years' computer science and technology education and 4 years' development working experience.
