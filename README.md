@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">A passionate Java developer from China!</h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackpan123" alt="jackpan123" /></a> </p>
+<h3 align="center">A Java developer from China!</h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackpan123" alt="jackpan123" /></a> </p>
 
 <!--
 **jackpan123/jackpan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
