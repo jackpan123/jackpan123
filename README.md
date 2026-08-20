@@ -1,21 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jack</h1><h3 align="center">A passionate Java backend developer from China!</h3><p align="left"><h3 align="left">Connect with me:</h3><a href="mailto:1315jack.pan@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="jackpan123" height="30" width="40" /></a></p>
 
-<h3 align="center">A developer from China!</h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackpan123" alt="jackpan123" /></a> </p>
+- 🧐 Interested in **Java** and **Spark**
+- 💼 Back End Engineer
+- 🌱 Currently learning **Math** & **Spring** internals
+- ✍🏻 I write about programming & tech on my [personal blog](https://juejin.cn/user/2823201593259405)
 
-<!--
-**jackpan123/jackpan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-* 🧐   Interested in Java and Spark. 
-* 💼   Back End Engineer.
-* 🌱   Currently learning Math & Spring principle.
-* 💻   With 4 years' computer science and technology education and 4 years' development working experience.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://juejin.cn/user/2823201593259405).
+![Github Metrics](./github-metrics.svg)
